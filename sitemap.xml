@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://www.thaissa.net/blog/2014/12/13/primeiro-post/</loc>
+    <loc>http://tfalbo.github.io/blog/2014/12/13/primeiro-post/</loc>
     <lastmod>2014-12-13T19:11:49-02:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.thaissa.net/blog/archives/</loc>
-    <lastmod>2014-12-13T19:16:18-02:00</lastmod>
+    <loc>http://tfalbo.github.io/blog/archives/</loc>
+    <lastmod>2014-12-13T20:20:21-02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://www.thaissa.net/</loc>
-    <lastmod>2014-12-13T19:16:18-02:00</lastmod>
+    <loc>http://tfalbo.github.io/</loc>
+    <lastmod>2014-12-13T20:20:21-02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>

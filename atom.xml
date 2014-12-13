@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Blog da Thaissa]]></title>
-  <link href="http://www.thaissa.net/atom.xml" rel="self"/>
-  <link href="http://www.thaissa.net/"/>
-  <updated>2014-12-13T19:16:18-02:00</updated>
-  <id>http://www.thaissa.net/</id>
+  <link href="http://tfalbo.github.io/atom.xml" rel="self"/>
+  <link href="http://tfalbo.github.io/"/>
+  <updated>2014-12-13T20:20:21-02:00</updated>
+  <id>http://tfalbo.github.io/</id>
   <author>
     <name><![CDATA[Thaissa Falbo]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Primeiro Post]]></title>
-    <link href="http://www.thaissa.net/blog/2014/12/13/primeiro-post/"/>
+    <link href="http://tfalbo.github.io/blog/2014/12/13/primeiro-post/"/>
     <updated>2014-12-13T19:11:49-02:00</updated>
-    <id>http://www.thaissa.net/blog/2014/12/13/primeiro-post</id>
+    <id>http://tfalbo.github.io/blog/2014/12/13/primeiro-post</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
