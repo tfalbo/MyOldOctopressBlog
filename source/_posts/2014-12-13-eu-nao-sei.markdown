@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Eu Não Sei!(ou só um drama de final de ano)"
+date: 2014-12-13 21:42:12 -0200
+comments: true
+categories: 
+---
+
+{% img https://dl.dropboxusercontent.com/u/11831892/Journal/Journal_1.jpg %}
