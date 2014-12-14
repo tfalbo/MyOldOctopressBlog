@@ -4,7 +4,7 @@
   <title><![CDATA[Blog da Thaissa]]></title>
   <link href="http://tfalbo.github.io/atom.xml" rel="self"/>
   <link href="http://tfalbo.github.io/"/>
-  <updated>2014-12-13T20:33:36-02:00</updated>
+  <updated>2014-12-13T23:54:03-02:00</updated>
   <id>http://tfalbo.github.io/</id>
   <author>
     <name><![CDATA[Thaissa Falbo]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Sapatos que fazem Toc-Toc]]></title>
+    <link href="http://tfalbo.github.io/blog/2014/12/13/sapatos-que-fazem-toc-toc/"/>
+    <updated>2014-12-13T23:21:09-02:00</updated>
+    <id>http://tfalbo.github.io/blog/2014/12/13/sapatos-que-fazem-toc-toc</id>
+    <content type="html"><![CDATA[<p><img src="https://dl.dropboxusercontent.com/u/11831892/Journal/2014-12-13%2023.25.11.png"></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Eu Não Sei!(ou só um drama de final de ano)]]></title>
+    <link href="http://tfalbo.github.io/blog/2014/12/13/eu-nao-sei/"/>
+    <updated>2014-12-13T21:42:12-02:00</updated>
+    <id>http://tfalbo.github.io/blog/2014/12/13/eu-nao-sei</id>
+    <content type="html"><![CDATA[<p><img src="https://dl.dropboxusercontent.com/u/11831892/Journal/Journal_1.jpg"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Primeiro Post]]></title>
