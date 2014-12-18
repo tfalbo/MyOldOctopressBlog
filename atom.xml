@@ -4,7 +4,7 @@
   <title><![CDATA[Blog da Thaissa]]></title>
   <link href="http://tfalbo.github.io/atom.xml" rel="self"/>
   <link href="http://tfalbo.github.io/"/>
-  <updated>2014-12-13T23:54:03-02:00</updated>
+  <updated>2014-12-17T23:52:21-02:00</updated>
   <id>http://tfalbo.github.io/</id>
   <author>
     <name><![CDATA[Thaissa Falbo]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Mas é que eu moro longe...]]></title>
+    <link href="http://tfalbo.github.io/blog/2014/12/17/mas-e-que-eu-moro-longe-dot-dot-dot/"/>
+    <updated>2014-12-17T23:51:27-02:00</updated>
+    <id>http://tfalbo.github.io/blog/2014/12/17/mas-e-que-eu-moro-longe-dot-dot-dot</id>
+    <content type="html"><![CDATA[<p><img src="https://db.tt/eTJqBiNm"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Sapatos que fazem Toc-Toc]]></title>
